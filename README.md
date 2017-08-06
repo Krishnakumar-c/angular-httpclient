@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # CommonHttp
+
+Angular new HttpClient (@angular/common/http)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
@@ -28,6 +29,3 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# angular-httpclient
-Angular new HttpClient (@angular/common/http)
->>>>>>> 166e6a54ebc044f21827ac16de6bc4495efd80cc
